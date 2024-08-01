@@ -2,6 +2,8 @@
 
 A small web app, for demonstration purposes only.
 
+[Demo link](https://ordinals-demo.vercel.app)
+
 ## Project
 
 This project utilises the following:

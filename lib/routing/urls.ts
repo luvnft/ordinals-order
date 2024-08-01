@@ -7,7 +7,7 @@ const developmentUrls = {
 } as const;
 
 const productionUrls = {
-  base: '',
+  base: 'https://ordinals-demo.vercel.app',
   ordinalsApi: 'https://api.ordinalsbot.com',
   mempoolApi: 'https://mempool.space/api/v1',
 } as const;
